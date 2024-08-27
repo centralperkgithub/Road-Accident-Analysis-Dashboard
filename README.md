@@ -1,5 +1,5 @@
 # Road-Accident-Analysis-Dashboard
-This repository contains a Power BI dashboard project on road accidents in India. It was developed by me and five teammates as the final submission for our IBM SkillBuild Data Analytics Internship Programme 2025
+This repository contains a Power BI dashboard project on road accidents in India. It was developed by me and five teammates as the final submission for our IBM SkillsBuild Summer Internship in Data Analytics with CSRBOX 2024
 
 ![data_analytics_ppt-01](https://github.com/user-attachments/assets/520c99b0-b953-4ff3-b109-1ee9f6c28c9f)
 ![data_analytics_ppt-02](https://github.com/user-attachments/assets/aa090c2e-9908-483d-bc1a-acfb094c5093)
